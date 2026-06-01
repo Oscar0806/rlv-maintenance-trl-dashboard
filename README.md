@@ -10,7 +10,7 @@ across 5 vehicles — producing 40 individual TRL assessments with
 derived gap analysis and prioritised recommendations.
 
 ## Live Demo
-**[Open Dashboard](https://your-streamlit-url-here.streamlit.app/)**
+**[Open Dashboard](https://rlv-maintenance-trl-dashboard-haamdgtv86igvcjvjrw3cx.streamlit.app/)**
 
 ## Screenshots
 
